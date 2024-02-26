@@ -1,6 +1,6 @@
  Olá, meu nome é Jessica Siqueira!
-- 👩‍💻 Estudante de desenvolvimento pela Trybe.
-- 🗺️ Sou do Rio de Janeiro, Brasil.
+- 👩‍💻 Sou estudante de desenvolvimento pela Trybe.
+- 🗺️ Natural do Rio de Janeiro, Brasil.
 - 🏔️ Gosto de fazer trilhas e viajar por aí.
 - 📜 Sou professora de história em transição de carreira.
 - 🚀 Busco novos desafios e oportunidades no mundo da programação.
