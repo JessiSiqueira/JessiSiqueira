@@ -1,8 +1,8 @@
-👋 Olá, meu nome é Jessica Siqueira!
-- 🗺️ Sou do Rio de Janeiro, Brasil.
-- 🏔️ Gosto de fazer trilhas e viajar por aí.
-- 📜 Sou professora de história em transição de carreira.
-- 🚀 Busco novos desafios e oportunidades no mundo da programação.
+ Olá, meu nome é Jessica Siqueira!
+  🗺️ Sou do Rio de Janeiro, Brasil.
+  🏔️ Gosto de fazer trilhas e viajar por aí.
+  📜 Sou professora de história em transição de carreira.
+  🚀 Busco novos desafios e oportunidades no mundo da programação.
 
 
 
